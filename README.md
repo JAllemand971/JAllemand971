@@ -29,6 +29,17 @@
   <source src="https://github.com/JAllemand971/JAllemand971/blob/main/LowPoly.mp4" type="video/mp4">
 </video>
 
+<div align="center">
+   
+What I have done so far ? |
+|---------|
+My projects in C | 
+My projects in HTML/CSS |
+My projects with Stable Diffusion |
+   
+</div>
+
+
 <div>
 <h3 align="center">Languages and Tools (Currently learning):</h3>
 <p align="center">
