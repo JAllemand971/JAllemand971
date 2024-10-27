@@ -19,7 +19,7 @@
         Currently, I am expanding my technical skills by learning C++ and Python, and exploring AI-generated art using Stable Diffusion. This blend of technical development and creative expression allows me to approach problem-solving from both logical and artistic perspectives.
       </p>
     </td>
-     <td width: 30%;">
+     <td style="width: 30%;">
       <img src="LowPoly.gif" width="256" height="256">
     </td>
   </tr>
