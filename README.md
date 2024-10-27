@@ -6,7 +6,7 @@
 
 <table border="0">
   <tr>
-    <td vertical-align="top">
+    <td style="vertical-align: top; width: 70%;">
       <p align="left">
         <h4 align="left">
         <em>
@@ -19,24 +19,27 @@
         Currently, I am expanding my technical skills by learning C++ and Python, and exploring AI-generated art using Stable Diffusion. This blend of technical development and creative expression allows me to approach problem-solving from both logical and artistic perspectives.
       </p>
     </td>
-    <td>
+     <td width: 30%;">
       <img src="LowPoly.gif" width="256" height="256">
     </td>
   </tr>
 </table>
 
-<video width="256" height="256" controls>
-  <source src="https://github.com/JAllemand971/JAllemand971/blob/main/LowPoly.mp4" type="video/mp4">
-</video>
-
-<div align="center">
-   
-What I have done so far ? |
-|---------|
-My projects in C | 
-My projects in HTML/CSS |
-My projects with Stable Diffusion |
-   
+<div>
+        <table align="center">
+           <tr>
+                <th>What I have done so far ?</th>
+            </tr>
+            <tr>
+                <td>My projects in C</td>
+            </tr>
+            <tr>
+                <td>My projects in HTML/CSS</td>
+            </tr>
+            <tr>
+                <td>My projects with Stable Diffusion</td>
+            </tr>
+        </table>
 </div>
 
 
