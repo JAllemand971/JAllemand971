@@ -26,7 +26,7 @@
 </table>
 
 <div align="center">
-        <table align="center">
+        <table>
            <tr>
                 <th>What I have done so far ?</th>
             </tr>
