@@ -25,8 +25,8 @@
   </tr>
 </table>
 
-<div>
-        <table align="center" style="margin: 0 auto;">
+<div align="center">
+        <table align="center">
            <tr>
                 <th>What I have done so far ?</th>
             </tr>
