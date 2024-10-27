@@ -26,7 +26,7 @@
 </table>
 
 <div>
-        <table style="text-align:center;">
+        <table align="center" style="margin: 0 auto;">
            <tr>
                 <th>What I have done so far ?</th>
             </tr>
