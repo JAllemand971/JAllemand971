@@ -34,7 +34,7 @@
                 <td>My projects in C</td>
             </tr>
             <tr>
-                <td>My projects in HTML/CSS</td>
+                <td><a href="https://github.com/JAllemand971/Projects_in_HTML-CSS">My projects in HTML/CSS</a></td>
             </tr>
             <tr>
                 <td>My projects with Stable Diffusion</td>
