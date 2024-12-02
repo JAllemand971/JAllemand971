@@ -31,10 +31,10 @@
                 <th>What I have done so far ?</th>
             </tr>
             <tr>
-                <td>My projects in C</td>
+                <td><a href="https://github.com/JAllemand971/Projects_in_C">My projects in C</a></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/JAllemand971/Projects_in_HTML-CSS">My projects in HTML/CSS</a></td>
+                <td><a href="https://github.com/JAllemand971/Projects_in_HTML-CSS">My projects in HTML/CSS/JavaScript</a></td>
             </tr>
             <tr>
                 <td>My projects with Stable Diffusion</td>
