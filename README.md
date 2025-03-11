@@ -39,6 +39,9 @@
             <tr>
                 <td><a href="https://github.com/JAllemand971/Projects_in_Cpp">My projects in C++</a></td>
             </tr>
+            <tr>
+                <td><a href="https://github.com/JAllemand971/Project_in_Ai_Art/">My Ai Art</a></td>
+            </tr>
         </table>
 </div>
 
