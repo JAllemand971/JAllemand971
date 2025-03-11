@@ -60,7 +60,7 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" alt="python" width="40" height="40"/> </a> 
-  <a href="https://stability.ai" target="_blank" rel="noreferrer"> <img src="https://atai-main.b-cdn.net/tools/stable-diffusion-icon.jpeg" alt="python" width="40" height="40"/> </a>
+  <a href="https://stability.ai" target="_blank" rel="noreferrer"> <img src="https://custom.typingmind.com/assets/models/stability.png" alt="Stable Diffusion" width="40" height="40"/> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
  </p>
 </div>
