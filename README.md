@@ -40,6 +40,9 @@
                 <td><a href="https://github.com/JAllemand971/Projects_in_HTML-CSS">My projects in HTML/CSS/JavaScript/PHP</a></td>
             </tr>
             <tr>
+                <td><a href="https://github.com/JAllemand971/Projects_in_Python">My projects in Python</a></td>
+            </tr>
+            <tr>
                 <td><a href="https://github.com/JAllemand971/Project_in_Ai_Art/">My Ai Art</a></td>
             </tr>
         </table>
