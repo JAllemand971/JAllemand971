@@ -31,7 +31,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="2">What I have done so far ?</th>
+      <th colspan="3">What I have done so far ?</th>
     </tr>
   </thead>
   <tbody>
