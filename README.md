@@ -54,7 +54,7 @@
       <tr>
          <td rowspan="2"><strong>Web Projects</strong></td>
          <td>Spice Website</td>
-         <td><i>Functional website showcasing my skills in PHP and MySql</i></td>
+         <td><i>Website showcasing my skills in PHP and MySql</i></td>
       </tr>
       <tr>
          <td><a href="https://github.com/JAllemand971/Web_Projects" target="_blank" rel="noreferrer">Various Web Projects</a></td>
