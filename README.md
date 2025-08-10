@@ -84,7 +84,7 @@
 </div>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jallemand971&show_icons=true&locale=en" alt="jallemand971" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jallemand971&show_icons=true&locale=en" alt="jallemand971" /></p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=jallemand971&label=Profile%20views&color=0e75b6&style=flat" alt="viewcounts" />
