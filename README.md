@@ -36,10 +36,11 @@
   </thead>
   <tbody>
     <tr>
-      <td>C</td>
+      <td rawspan="2">Python</td>
       <td>
-        <a href="https://github.com/JAllemand971/Projects_in_C">My projects in C</a>
+        Fingers Counter
       </td>
+       <td>Program counting the number of fingers shown by the camera and trigerred action</td>
     </tr>
     <tr>
       <td>C++</td>
