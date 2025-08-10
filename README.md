@@ -43,6 +43,11 @@
          <td>Fingers Counter</td>
          <td><i>Program counting the number of fingers shown by the camera and triggering an action</i></td>
       </tr>
+      <tr>
+         <td rowspan="1"><strong>C++</strong></td>
+         <td>Tetris</td>
+         <td><i>Tetris coded in C++</i></td>
+      </tr>
       
   </tbody>
 </table>
