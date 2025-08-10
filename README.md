@@ -54,7 +54,7 @@
          <td><i>Functional website showcasing my skills in PHP</i></td>
       </tr>
       <tr>
-         <td>Various Web Projects</td>
+         <td><a href="https://github.com/JAllemand971/Projects_in_HTML-CSS/tree/main" target="_blank" rel="noreferrer">Various Web Projects</a></td>
          <td><i>Short web projects in HTML, CSS, and JavaScript</i></td>
       </tr>
    </tbody>
