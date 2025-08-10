@@ -26,22 +26,29 @@
 </table>
 
 <div align="center">
-        # My Projects
 
 <table>
-  <thead>
-    <tr>
-      <th colspan="3">What I have done so far ?</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rawspan="2">Python</td>
-      <td>
-        Fingers Counter
-      </td>
-       <td>Program counting the number of fingers shown by the camera and trigerred action</td>
-    </tr>
+   <thead>
+      <tr>
+         <th colspan="3">What I have done so far ?</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td rawspan="2">Python</td>
+         <td>
+            Tetris by Hand
+         </td>
+         <td>
+            Play Tetris with your hands as controllers
+         </td>
+         <td>
+            Fingers Counter
+         </td>
+         <td>
+            Program counting the number of fingers shown by the camera and trigerred action
+         </td>
+      </tr>
     <tr>
       <td>C++</td>
       <td>
