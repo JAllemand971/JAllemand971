@@ -58,9 +58,9 @@
          <td><i>Short web projects in HTML, CSS, and JavaScript</i></td>
       </tr>
       <tr>
-         <td><strong>Ai Art</strong></td>
-         <td><a href="https://github.com/JAllemand971/Project_in_Ai_Art" target="_blank" rel="noreferrer">Ai Art</a></td>
-         <td><i>Functional website showcasing my skills in PHP</i></td>
+         <td><strong>AI Generated Art</strong></td>
+         <td><a href="https://github.com/JAllemand971/Project_in_Ai_Art" target="_blank" rel="noreferrer">Various AI generated art projects</a></td>
+         <td><i>AI generated videos and images</i></td>
       </tr>
    </tbody>
 </table>
