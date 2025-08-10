@@ -34,51 +34,11 @@
       </tr>
    </thead>
    <tbody>
-      <!-- PYTHON avec 2 projets -->
       <tr>
          <td rowspan="2">Python</td>
-         <td>Tetris by Hand</td>
-         <td>Play Tetris with your hands as controllers</td>
-      </tr>
-      <tr>
-         <td>Fingers Counter</td>
-         <td>Program counting the number of fingers shown by the camera and triggering an action</td>
-      </tr>
-
-      <!-- C++ -->
-      <tr>
-         <td rowspan="3">C++</td>
-         <td><a href="https://github.com/JAllemand971/Projects_in_Cpp">Project 1</a></td>
-         <td>Description for project 1</td>
-      </tr>
-      <tr>
-         <td><a href="https://github.com/JAllemand971/Projects_in_Cpp">Project 2</a></td>
-         <td>Description for project 2</td>
-      </tr>
-      <tr>
-         <td><a href="https://github.com/JAllemand971/Projects_in_Cpp">Project 3</a></td>
-         <td>Description for project 3</td>
-      </tr>
-
-      <!-- HTML/CSS/JS/PHP -->
-      <tr>
-         <td>HTML/CSS/JavaScript/PHP</td>
-         <td colspan="2">
-            <a href="https://github.com/JAllemand971/Projects_in_HTML-CSS">My projects in HTML/CSS/JavaScript/PHP</a>
-         </td>
-      </tr>
-
-      <!-- AI Art -->
-      <tr>
-         <td>AI Art</td>
-         <td colspan="2">
-            <a href="https://github.com/JAllemand971/Project_in_Ai_Art/">My Ai Art</a>
-         </td>
-      </tr>
-   </tbody>
+         
+  </tbody>
 </table>
-
-
 
 </div>
 
