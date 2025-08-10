@@ -57,6 +57,15 @@
          <td><a href="https://github.com/JAllemand971/Web_Projects" target="_blank" rel="noreferrer">Various Web Projects</a></td>
          <td><i>Short web projects in HTML, CSS, and JavaScript</i></td>
       </tr>
+      <tr>
+         <td><strong>Ai Art</strong></td>
+         <td>Spice Website</td>
+         <td><i>Functional website showcasing my skills in PHP</i></td>
+      </tr>
+      <tr>
+         <td><a href="https://github.com/JAllemand971/Web_Projects" target="_blank" rel="noreferrer">Various Web Projects</a></td>
+         <td><i>Short web projects in HTML, CSS, and JavaScript</i></td>
+      </tr>
    </tbody>
 </table>
 
