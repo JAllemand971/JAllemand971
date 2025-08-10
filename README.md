@@ -35,9 +35,9 @@
    </thead>
    <tbody>
       <tr>
-         <td rowspan="2">Python</td>
+         <td rowspan="2"><strong>Python</strong></td>
          <td>Tetris by Hand</td>
-         <td>Play Tetris with your hands as controllers</td>
+         <td><i>Play Tetris with your hands as controllers</i></td>
       </tr>
       <tr>
          <td>Fingers Counter</td>
