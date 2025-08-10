@@ -52,7 +52,7 @@
          <td><i>Tetris coded in C++</i></td>
       </tr>
       <tr>         
-         <td rowspan="3"><strong>Web Projects</strong></td>
+         <td rowspan="2"><strong>Web Projects</strong></td>
          <td><a href="https://github.com/JAllemand971/Spice_Website" target="_blank" rel="noreferrer">Spice Website</a></td>
          <td><i>Website showcasing my skills in PHP and MySql</i></td>
       </tr>
