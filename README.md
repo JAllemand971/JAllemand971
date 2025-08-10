@@ -32,7 +32,6 @@
   <thead>
     <tr>
       <th>What I have done so far ?</th>
-      <th>Projects</th>
     </tr>
   </thead>
   <tbody>
