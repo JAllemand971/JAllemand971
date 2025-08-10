@@ -105,8 +105,8 @@
       <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
          <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
       </a>
-      <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-         <img src="https://gimgs2.nohat.cc/thumb/f/640/davinci-resolve-logo-png-3-png-image--comdlpng6941836.jpg" alt="blender" width="40" height="40"/>
+      <a href="https://www.blackmagicdesign.com/ca/products/davinciresolve" target="_blank" rel="noreferrer"> 
+         <img src="https://gimgs2.nohat.cc/thumb/f/640/davinci-resolve-logo-png-3-png-image--comdlpng6941836.jpg" alt="DaVinci" width="40" height="40"/>
       </a>      
    </p>
 </div>
