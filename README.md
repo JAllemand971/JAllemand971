@@ -36,7 +36,14 @@
    <tbody>
       <tr>
          <td rowspan="2">Python</td>
-         
+         <td>Tetris by Hand</td>
+         <td>Play Tetris with your hands as controllers</td>
+      </tr>
+      <tr>
+         <td>Fingers Counter</td>
+         <td>Program counting the number of fingers shown by the camera and triggering an action</td>
+      </tr>
+      
   </tbody>
 </table>
 
