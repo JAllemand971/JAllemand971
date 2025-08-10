@@ -101,7 +101,7 @@
          <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
       </a>
       <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-         <img src="https://icon2.cleanpng.com/20190212/ixq/kisspng-sports-betting-the-action-network-odds-football-lo-ampquotestrela-de-daviampquot-5c625abb942774.4159177315499496276068.jpg" alt="blender" width="40" height="40"/>
+         <img src="https://gimgs2.nohat.cc/thumb/f/640/davinci-resolve-logo-png-3-png-image--comdlpng6941836.jpg" alt="blender" width="40" height="40"/>
       </a>      
    </p>
 </div>
