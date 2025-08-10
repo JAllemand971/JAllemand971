@@ -43,9 +43,9 @@
          <td><a href="https://github.com/JAllemand971/Finger_Counter" target="_blank" rel="noreferrer">Fingers Counter</a></td>
          <td><i>Program counting the number of fingers shown by the camera and triggering an action</i></td>
       </tr>
-      <tr>
+      <tr>   
          <td><strong>C++</strong></td>
-         <td>Tetris</td>
+         <td><a href="https://github.com/JAllemand971/Tetris_in_Cpp" target="_blank" rel="noreferrer">Tetris</a></td>
          <td><i>Tetris coded in C++</i></td>
       </tr>
       <tr>
