@@ -41,7 +41,7 @@
       </tr>
       <tr>
          <td>Fingers Counter</td>
-         <td>Program counting the number of fingers shown by the camera and triggering an action</td>
+         <td><i>Program counting the number of fingers shown by the camera and triggering an action</i></td>
       </tr>
       
   </tbody>
