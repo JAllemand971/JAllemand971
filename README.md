@@ -59,7 +59,7 @@
       </tr>
       <tr>
          <td><strong>AI Generated Art</strong></td>
-         <td><a href="https://github.com/JAllemand971/Project_in_Ai_Art" target="_blank" rel="noreferrer">Various AI generated art projects</a></td>
+         <td><a href="https://github.com/JAllemand971/Project_in_Ai_Art" target="_blank" rel="noreferrer">Various AI art projects</a></td>
          <td><i>AI generated videos and images</i></td>
       </tr>
    </tbody>
