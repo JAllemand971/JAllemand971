@@ -10,8 +10,7 @@
       <p align="left">
         <h4 align="left">
         <em>
-        An Embedded Software Specialist at 
-        <a href="https://www.cae.com/defense-security/">CAE Inc</a>
+        An Embedded Software Specialist
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
         </em>
         </h4>
