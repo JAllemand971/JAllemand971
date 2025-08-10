@@ -44,13 +44,22 @@
          <td><i>Program counting the number of fingers shown by the camera and triggering an action</i></td>
       </tr>
       <tr>
-         <td rowspan="1"><strong>C++</strong></td>
+         <td><strong>C++</strong></td>
          <td>Tetris</td>
          <td><i>Tetris coded in C++</i></td>
       </tr>
-      
-  </tbody>
+      <tr>
+         <td rowspan="2"><strong>Web Projects</strong></td>
+         <td>Spice Website</td>
+         <td><i>Functional website showcasing my skills in PHP</i></td>
+      </tr>
+      <tr>
+         <td>Various Web Projects</td>
+         <td><i>Short web projects in HTML, CSS, and JavaScript</i></td>
+      </tr>
+   </tbody>
 </table>
+
 
 </div>
 
