@@ -39,8 +39,8 @@
          <td>Tetris by Hand</td>
          <td><i>Play Tetris with your hands as controllers</i></td>
       </tr>
-      <tr>
-         <td>Fingers Counter</td>
+      <tr>         
+         <td><a href="https://github.com/JAllemand971/Finger_Counter" target="_blank" rel="noreferrer">Fingers Counter</a></td>
          <td><i>Program counting the number of fingers shown by the camera and triggering an action</i></td>
       </tr>
       <tr>
