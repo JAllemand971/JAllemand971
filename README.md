@@ -26,28 +26,46 @@
 </table>
 
 <div align="center">
-        <table>
-           <tr>
-                <th>What I have done so far ?</th>
-            </tr>
-            <tr>
-               <td><a href="https://github.com/JAllemand971/Projects_in_C">My projects in C</a></td>
-            </tr>
-            <tr>
-               <td>#1</td>
-               <td><a href="https://github.com/JAllemand971/Projects_in_Cpp">My projects in C++</a></td>
-               <td>sadadw</td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/JAllemand971/Projects_in_HTML-CSS">My projects in HTML/CSS/JavaScript/PHP</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/JAllemand971/Projects_in_Python">My projects in Python</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/JAllemand971/Project_in_Ai_Art/">My Ai Art</a></td>
-            </tr>
-        </table>
+        # My Projects
+
+<table>
+    <tr>
+        <th>What I have done so far ?</th>
+    </tr>
+    <tr>
+        <td>
+            <strong>C</strong><br>
+            <a href="https://github.com/JAllemand971/Projects_in_C">Project 1: My projects in C</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>C++</strong><br>
+            <a href="https://github.com/JAllemand971/Projects_in_Cpp">Project 1: My projects in C++</a><br>
+            <a href="#">Project 2: Another C++ project</a><br>
+            <a href="#">Project 3: Yet another C++ project</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>HTML / CSS / JavaScript / PHP</strong><br>
+            <a href="https://github.com/JAllemand971/Projects_in_HTML-CSS">My projects in HTML/CSS/JavaScript/PHP</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Python</strong><br>
+            <a href="https://github.com/JAllemand971/Projects_in_Python">My projects in Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>AI Art</strong><br>
+            <a href="https://github.com/JAllemand971/Project_in_Ai_Art/">My AI Art</a>
+        </td>
+    </tr>
+</table>
+
 </div>
 
 
