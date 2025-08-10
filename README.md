@@ -31,7 +31,7 @@
 <table>
   <thead>
     <tr>
-      <td>What I have done so far ?</td>
+      <th colspan="2">What I have done so far ?</th>
     </tr>
   </thead>
   <tbody>
@@ -58,7 +58,7 @@
     <tr>
       <td>Python</td>
       <td>
-        <a href="https://github.com/JAllemand971/Projects_in_Python">My projects in Python</a>
+        <a href="https://github.com/Jallemand971/Projects_in_Python">My projects in Python</a>
       </td>
     </tr>
     <tr>
@@ -69,6 +69,7 @@
     </tr>
   </tbody>
 </table>
+
 
 </div>
 
