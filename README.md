@@ -35,13 +35,17 @@
    </thead>
    <tbody>
       <tr>
-         <td rowspan="2"><strong>Python</strong></td>
+         <td rowspan="3"><strong>Python</strong></td>
          <td>Tetris by Hand</td>
          <td><i>Play Tetris with your hands as controllers</i></td>
       </tr>
       <tr>         
          <td><a href="https://github.com/JAllemand971/Finger_Counter" target="_blank" rel="noreferrer">Fingers Counter</a></td>
          <td><i>Program counting the number of fingers shown by the camera</i></td>
+      </tr>
+      <tr>         
+         <td><a href="https://github.com/JAllemand971/Words_Counter" target="_blank" rel="noreferrer">Words Counter</a></td>
+         <td><i>Program counting the number of words in a video</i></td>
       </tr>
       <tr>   
          <td><strong>C++</strong></td>
