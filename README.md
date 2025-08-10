@@ -51,9 +51,9 @@
          <td><a href="https://github.com/JAllemand971/Tetris_in_Cpp" target="_blank" rel="noreferrer">Tetris</a></td>
          <td><i>Tetris coded in C++</i></td>
       </tr>
-      <tr>
+      <tr>         
          <td rowspan="2"><strong>Web Projects</strong></td>
-         <td>Spice Website</td>
+         <td><a href="https://github.com/JAllemand971/Spice_Website" target="_blank" rel="noreferrer">Spice Website</a></td>
          <td><i>Website showcasing my skills in PHP and MySql</i></td>
       </tr>
       <tr>
