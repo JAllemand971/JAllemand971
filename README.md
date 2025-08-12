@@ -34,8 +34,8 @@
    </thead>
    <tbody>
       <tr>
-         <td rowspan="3"><strong>Python</strong></td>
-         <td>Tetris by Hand</td>
+         <td rowspan="3"><strong>Python</strong></td>         
+         <td><a href="https://github.com/JAllemand971/Hand_Controlled_Tetris/" target="_blank" rel="noreferrer">Tetris by Hand</a></td>
          <td><i>Play Tetris with your hands as controllers</i></td>
       </tr>
       <tr>         
