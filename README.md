@@ -97,7 +97,7 @@
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
       </a> 
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-         <img src="https://w7.pngwing.com/pngs/746/702/png-transparent-javascript-node-js-angularjs-jquery-github-angle-text-rectangle.png" width="40" height="40"/> 
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40"/> 
       </a> 
       <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
