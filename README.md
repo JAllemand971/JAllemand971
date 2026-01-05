@@ -15,6 +15,7 @@
         </em>
         </h4>
         I am an engineering specialist with extensive experience in systems engineering, embedded software development, and avionics systems, particularly in the aerospace and defense sectors. My expertise includes designing, coding, debugging, and testing complex systems.<br><br>
+         fewew
       </p>
     </td>
      <td style="width: 30%;">
