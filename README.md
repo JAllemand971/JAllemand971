@@ -14,8 +14,7 @@
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
         </em>
         </h4>
-        I am an engineering specialist with extensive experience in systems engineering, embedded software development, and avionics systems, particularly in the aerospace and defense sectors. My expertise includes designing, coding, debugging, and testing complex systems.<br><br>
-        Currently, I am expanding my technical skills by learning C++ and Python, and exploring AI-generated art using Stable Diffusion. This blend of technical development and creative expression allows me to approach problem-solving from atypical perspective.
+        I am an engineering specialist with extensive experience in systems engineering, embedded software development, and avionics systems, particularly in the aerospace and defense sectors. My expertise includes designing, coding, debugging, and testing complex systems.<br>
       </p>
     </td>
      <td style="width: 30%;">
