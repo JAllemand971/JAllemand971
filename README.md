@@ -17,7 +17,7 @@
         I am an engineering specialist with extensive experience in systems engineering, embedded software development, and avionics systems, particularly in the aerospace and defense sectors. My expertise includes designing, coding, debugging, and testing complex systems.
          <br>
          <br>
-         I continuously expand my skills in software development, machine learning, and deep learning through hands-on projects. My GitHub showcases applied work in interactive applications, computer vision, and AI-driven image and video generation. These projects highlight a strong analytical mindset, practical problem solving, and an ability to integrate diverse technologies into coherent, working systems.
+         I continuously expand my skills in software development, machine learning, and deep learning through hands-on projects. My GitHub showcases applied work in interactive applications, computer vision, and AI-generated image and video generation. These projects highlight a strong analytical mindset, practical problem solving, and an ability to integrate diverse technologies into coherent, working systems.
       </p>
     </td>
      <td style="width: 30%;">
