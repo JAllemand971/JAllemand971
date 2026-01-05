@@ -87,7 +87,7 @@
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
       </a> 
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-         <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" alt="python" width="40" height="40"/> 
+         <img src="https://cdn.imgbin.com/18/7/19/imgbin-python-logo-programmer-fierce-python-s-blue-and-yellow-logo-vTCHAtgnCtFtega1YpGrJHPXQ.jpg" alt="python" width="40" height="40"/> 
       </a> 
       <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
          <img src="https://toppng.com/uploads/preview/java-logo-vector-free-download-115742383154zj1d34hyu.png" alt="java" width="40" height="40"/> 
