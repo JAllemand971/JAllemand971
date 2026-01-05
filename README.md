@@ -14,8 +14,10 @@
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
         </em>
         </h4>
-        I am an engineering specialist with extensive experience in systems engineering, embedded software development, and avionics systems, particularly in the aerospace and defense sectors. My expertise includes designing, coding, debugging, and testing complex systems.<br><br>
-         fewew
+        I am an engineering specialist with extensive experience in systems engineering, embedded software development, and avionics systems, particularly in the aerospace and defense sectors. My expertise includes designing, coding, debugging, and testing complex systems.
+         <br>
+         <br>
+         I continuously expand my skills in software development, machine learning, and deep learning through hands-on projects. My GitHub showcases applied work ranging from algorithmic problem solving to AI-driven image and video generation. These projects reflect a strong analytical mindset, creative experimentation, and an ability to approach problems from unconventional yet rigorous angles.
       </p>
     </td>
      <td style="width: 30%;">
