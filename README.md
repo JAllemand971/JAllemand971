@@ -83,14 +83,14 @@
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="cplusplus" width="40" height="40"/> 
       </a>
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">    
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+      </a> 
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
          <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" alt="python" width="40" height="40"/> 
       </a> 
       <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
          <img src="https://toppng.com/uploads/preview/java-logo-vector-free-download-115742383154zj1d34hyu.png" alt="java" width="40" height="40"/> 
-      </a> 
-      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">    
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
       </a> 
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
