@@ -37,8 +37,8 @@
    <tbody>
       <tr>
          <td rowspan="4"><strong>Python</strong></td>         
-         <td><a href="" target="_blank" rel="noreferrer">Ai & Data Job Market Analysis</a></td>
-         <td><i>Analyses of different ai & data job markets databases</i></td>
+         <td><a href="" target=https://github.com/JAllemand971"_blank" rel="noreferrer">Ai & Data Job Market Analysis</a></td>
+         <td><i>Analysis of Different AI and Data Job Market Databases</i></td>
       </tr>
       <tr>
          <td><a href="https://github.com/JAllemand971/Hand_Controlled_Tetris/" target="_blank" rel="noreferrer">Tetris by Hand</a></td>
