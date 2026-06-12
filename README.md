@@ -37,7 +37,7 @@
    <tbody>
       <tr>
          <td rowspan="4"><strong>Python</strong></td>         
-         <td><a href="" target=https://github.com/JAllemand971"_blank" rel="noreferrer">Ai & Data Job Market Analysis</a></td>
+         <td><a href="https://github.com/JAllemand971/AI_Job_Market_Analysis" target="_blank" rel="noreferrer">Ai & Data Job Market Analysis</a></td>
          <td><i>Analysis of Different AI and Data Job Market Databases</i></td>
       </tr>
       <tr>
