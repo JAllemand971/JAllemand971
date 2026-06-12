@@ -36,7 +36,7 @@
    </thead>
    <tbody>
       <tr>
-         <td rowspan="3"><strong>Python</strong></td>         
+         <td rowspan="4"><strong>Python</strong></td>         
          <td><a href="" target="_blank" rel="noreferrer">Ai & Data Job Market Analysis</a></td>
          <td><i>Analyses of different ai & data job markets databases</i></td>
       </tr>
