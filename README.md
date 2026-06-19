@@ -123,7 +123,7 @@
      <td rowspan="2"><strong>Web Projects</strong></td>
      <td>
         <a href="https://github.com/JAllemand971/Spice_Website" target="_blank" rel="noreferrer">
-           Spice Website
+           Cocktail Website
         </a>
      </td>
      <td>
