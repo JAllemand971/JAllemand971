@@ -127,7 +127,7 @@
         </a>
      </td>
      <td>
-        <i>PHP and MySQL web application using CRUD operations</i>
+        <i>Website built with Node.js, Express, and XML, featuring CRUD operations</i>
      </td>
   </tr>
 
