@@ -22,7 +22,7 @@
         </em>
       </h4>
 
-```
+
   <p align="left">
     I am an engineering specialist with experience in systems engineering, embedded software development, avionics systems, and aerospace defense projects.
     <br><br>
@@ -62,7 +62,7 @@
          </td>
       </tr>
 
-```
+
   <tr>
      <td>
         <a href="https://github.com/JAllemand971/Hand_Controlled_Tetris/" target="_blank" rel="noreferrer">
@@ -142,7 +142,7 @@
         <i>AI-generated images and videos using generative tools and creative workflows</i>
      </td>
   </tr>
-```
+
 
    </tbody>
 </table>
@@ -157,7 +157,7 @@
          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/> 
       </a> 
 
-```
+
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="C++" width="40" height="40"/> 
   </a>
@@ -201,7 +201,7 @@
   <a href="https://www.blackmagicdesign.com/ca/products/davinciresolve" target="_blank" rel="noreferrer"> 
      <img src="https://gimgs2.nohat.cc/thumb/f/640/davinci-resolve-logo-png-3-png-image--comdlpng6941836.jpg" alt="DaVinci Resolve" width="40" height="40"/>
   </a>      
-```
+
 
    </p>
 </div>
