@@ -66,7 +66,7 @@
   <tr>
      <td>
         <a href="https://github.com/JAllemand971/vancouver-ai-job-market-analysis" target="_blank" rel="noreferrer">
-           Vancouver AI & Data Job Market Analysis
+           Vancouver 2026 AI & Data Job Market Analysis
         </a>
      </td>
      <td>
