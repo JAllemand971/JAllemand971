@@ -35,7 +35,7 @@
 <td style="width: 30%;">
   <img src="LowPoly.gif" width="256" height="256">
 </td>
-```
+
 
   </tr>
 </table>
@@ -51,9 +51,14 @@
 
    <tbody>
       <tr>
-         <td rowspan="4"><strong>Python</strong></td>         
+         <td rowspan="5"><strong>Python</strong></td> 
+        <td>
+            <a href="https://github.com/JAllemand971/2026-ai-job-market-analysis" target="_blank" rel="noreferrer">
+               AI & Data Job Market Analysis
+            </a>
+        </td>
          <td>
-            <a href="https://github.com/JAllemand971/AI_Job_Market_Analysis" target="_blank" rel="noreferrer">
+            <a href="https://github.com/JAllemand971/vancouver-ai-job-market-analysis" target="_blank" rel="noreferrer">
                AI & Data Job Market Analysis
             </a>
          </td>
