@@ -52,23 +52,27 @@
    <tbody>
       <tr>
          <td rowspan="5"><strong>Python</strong></td> 
-        <td>
+         <td>
             <a href="https://github.com/JAllemand971/2026-ai-job-market-analysis" target="_blank" rel="noreferrer">
                Global 2026 AI & Data Job Market Analysis
             </a>
-        </td>
-   </tr>
-   <tr>
-         <td>
-            <a href="https://github.com/JAllemand971/vancouver-ai-job-market-analysis" target="_blank" rel="noreferrer">
-               Vancouver AI & Data Job Market Analysis
-            </a>
          </td>
          <td>
-            <i>Analysis of AI and data job market datasets using Python, data cleaning, visualization, and machine learning</i>
+            <i>Global analysis of AI and data job market datasets using Python, data cleaning, visualization, skill inference, and machine learning</i>
          </td>
       </tr>
 
+
+  <tr>
+     <td>
+        <a href="https://github.com/JAllemand971/vancouver-ai-job-market-analysis" target="_blank" rel="noreferrer">
+           Vancouver AI & Data Job Market Analysis
+        </a>
+     </td>
+     <td>
+        <i>Local analysis of AI and data job postings in the Greater Vancouver area</i>
+     </td>
+  </tr>
 
   <tr>
      <td>
@@ -155,6 +159,7 @@
 </table>
 
 </div>
+
 
 <div>
    <h3 align="center">Languages and Tools</h3>
